@@ -1,7 +1,7 @@
 # chronogestor_automation
 
 Setup: 
-- run `yarn add puppeteer-core` in your folder.
+- run `yarn add puppeteer` in your folder.
 - In `badge.js`replace 'you_email_address' by your actual email
 - In `badge.js` replace 'your_password' by your actual password
 
