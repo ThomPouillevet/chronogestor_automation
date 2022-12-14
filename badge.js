@@ -32,6 +32,6 @@ const moment = require('moment');
   // #wp-submit // id pour les tests
   await setTimeout(() => {
     page.click('#wp-badger');
-    setTimeout(() => browser.close(), 5111);
+    setTimeout(() => browser.close(), 4200);
   }, rand.toFixed(0));
 })();

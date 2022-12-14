@@ -16,4 +16,6 @@ How to use:
 0 14 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js
 0 18 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js
 
-- Be free ! And NEVER, NEVER, NEVER putain de badge again !
+- Be free ! And NEVER putain de badge again !
+
+[![FREEEEEEE](https://img.youtube.com/vi/xSkCny-HtTw/0.jpg)](https://www.youtube.com/watch?v=xSkCny-HtTw)
