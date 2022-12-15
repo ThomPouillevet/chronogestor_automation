@@ -11,10 +11,10 @@ How to use:
 - crontab -e
 - add something like this :
 
-0 8 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js
-0 13 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js
-0 14 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js
-0 18 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js
+0 8 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js \
+0 13 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js \
+0 14 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js \
+0 18 * * 1-5 cd /Users/YOU/YOUR_APP_FOLDER/ && /Users/YOU/YOUR_NODE badge.js 
 
 - Be free ! And NEVER putain de badge again !
 
